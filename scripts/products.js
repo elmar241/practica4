@@ -16,6 +16,5 @@ const products = {
         "title": "Funda de piel",
         "price": "79.99"
         }
-    
     ]
 }
