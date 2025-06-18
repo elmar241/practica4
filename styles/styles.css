@@ -14,7 +14,6 @@
     font-family: sans-serif;
 }
 
-
 .mainContainer {
     max-width: 1440px;
     padding: 30px;
@@ -42,9 +41,11 @@
 
 .productRows td {
   padding: 1rem 0;
+  height: 50px; 
   vertical-align: middle;
   border-bottom: 1px solid #eee;
 }
+
 
 .quantityControls {
   display: flex;
@@ -54,6 +55,8 @@
 .btnLess, .btnMore {
   padding: 0.25rem 0.5rem;
   margin: 0 0.3rem;
+  border: none;
+  background-color: #cccccc00;
   cursor: pointer;
 }
 
