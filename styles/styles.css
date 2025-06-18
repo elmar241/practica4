@@ -1,0 +1,17 @@
+.header {
+    padding:20px 10px 20px 10px;
+    border-bottom: 1px solid rgb(221, 218, 218);
+}
+.wrapper {
+    max-width: 1440px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.header__logo {
+    font-size: 1.2em;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+
+
